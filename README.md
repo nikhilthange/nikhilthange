@@ -1,55 +1,47 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,25:0f2438,60:0d3b56,100:0a0e17&height=280&section=header&text=Nikhil%20Thange&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI%20Pipelines&descSize=19&descAlignY=56&descColor=bae6fd&stroke=0284c7&strokeWidth=2"/>
+<!-- Telemetry Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,40:0f172a,75:0e2a47,100:0284c7&height=220&section=header&text=NIKHIL%20THANGE&fontSize=48&fontColor=38bdf8&fontAlignY=42&desc=Systems%20%C2%B7%20Microservices%20%C2%B7%20Computer%20Vision%20%C2%B7%20Cloud%20Architecture&descSize=17&descAlignY=66&descColor=94a3b8&stroke=0284c7&strokeWidth=1.5"/>
 
-<!-- Typing Animation Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%C2%B7+SDE+Intern+%40+Chitralai;Building+High-Concurrency+Microservices+%26+Edge+AI+Pipelines+%E2%9A%A1;MUSA+Codex+Top+7+Finalist+%F0%9F%8F%86+%C2%B7+Quasar+4.0+Finalist;React+19+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Redis+%C2%B7+AWS+%C2%B7+YOLOv8;Sub-50ms+P95+Latency+%7C+Zero-Internet+Offline+Sync+%F0%9F%9A%80"/>
+<!-- Dynamic Terminal Ribbon -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%96%B6+SDE+Intern+%40+Chitralai+%E2%80%94+React+19+%C2%B7+AWS+%C2%B7+Redis+%C2%B7+PostgreSQL;%E2%96%B6+National+Hackathon+Finalist+%7C+MUSA+Codex+Top+7+%F0%9F%8F%86+%C2%B7+Quasar+4.0;%E2%96%B6+Sub-50ms+P95+Latency+%E2%80%94+Scaled+PM2+Clusters+%26+Redis+Caching;%E2%96%B6+Edge+AI+Pipelines+%E2%80%94+Fine-Tuned+YOLOv8+(91.4%25+mAP50)+%26+TrOCR;%E2%96%B6+Offline-First+Architectures+%E2%80%94+Zero-Internet+2G+SMS+Fallback"/>
 
 <br/>
 
-<!-- Social / Portfolio Badges -->
-<a href="https://smart-civic-pi.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_CityOS-Live_Demo-0284c7?style=for-the-badge&logoColor=white"/>
+<!-- System Telemetry Badges -->
+<a href="https://smart-civic-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/System-CityOS_Live-0284c7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/nikhil-thange" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/nikhil-thange">
+  <img src="https://img.shields.io/badge/Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:nikhilthange75@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dispatch-Email_Direct-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/nikhilthange" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-nikhilthange-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/nikhilthange">
+  <img src="https://img.shields.io/badge/Source-GitHub_Repos-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-<!-- Metric Chips -->
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilthange&color=0284c7&style=flat-square&label=Profile+Views)
-![Status](https://img.shields.io/badge/Status-SDE%20Intern%20%7C%20Open%20to%20Opportunities-22c55e?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Mumbai%2C%20India-f97316?style=flat-square)
-![Hackathons](https://img.shields.io/badge/🏆-2x%20National%20Finalist-eab308?style=flat-square)
+<!-- Live Status Bar -->
+<code>STATUS: ACTIVE INTERN</code> &nbsp;•&nbsp; 
+<code>LOCATION: MUMBAI, IN</code> &nbsp;•&nbsp; 
+<code>SPECIALIZATION: HIGH-CONCURRENCY BACKEND & EDGE AI</code>
 
 </div>
 
 ---
 
-<img align="right" alt="Engineering" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+### 🖥️ Runtime Environment & System Specs
 
-## `> whoami`
+```bash
+[nikhil@production-cluster ~]$ sysinfo --verbose
 
-```typescript
-const nikhil = {
-  name:        "Nikhil Ankush Thange",
-  role:        "Full Stack Software Engineer (SDE Intern @ Chitralai)",
-  education:   "B.E. Information Technology (2023–2027) | Mumbai University",
-  cgpa:        7.50,
-  coreFocus:   ["High-Concurrency Systems", "Reactive React 19", "Edge Vision & LLMs"],
-  cloudInfra:  ["AWS (S3, CloudFront, EC2)", "Docker", "Nginx", "Redis Caching"],
-  hackathons:  [
-    "🏆 MUSA Codex National Hackathon — Top 7 Finalist (SwasthyaSetu)",
-    "🏆 Quasar 4.0 Hackathon Finalist (CityOS Edge Vision System)"
-  ],
-  certifications: ["IBM Full Stack Architecture Certified"],
-  philosophy:  "Low latency, bulletproof offline resilience, and production-tested code"
-};
+KERNEL       : B.E. Information Technology (2023–2027) | Mumbai University (CGPA: 7.50)
+CURRENT ROLE : Software Development Engineer Intern @ Chitralai
+PRIMARY STACK: React 19 · Node.js · TypeScript · Redis · PostgreSQL · AWS (EC2/S3/CloudFront)
+AI ACCELERATE: Fine-Tuned YOLOv8 (Edge Vision) · NVIDIA NIM (LLM Streaming) · Hugging Face TrOCR
+ACHIEVEMENTS : 🏆 MUSA Codex National Top 7 Finalist | 🏆 Quasar 4.0 Hackathon Finalist
+CERTIFIED    : IBM Enterprise Full-Stack Microservices & Cloud Architecture
+DISPATCH     : Open to Software Engineering (SDE) Roles & Distributed Systems Collaborations
