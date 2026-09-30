@@ -25,6 +25,7 @@
 <br/><br/>
 
 <!-- Status Chips -->
+<img src="https://komarev.com/ghpvc/?username=nikhilthange&color=0284c7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/ROLE-SDE%20Intern%20%40%20Chitralai-0284c7?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/LOCATION-Mumbai%2C%20India-f97316?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-7.50%20%2F%2010.0-10b981?style=flat-square"/>
