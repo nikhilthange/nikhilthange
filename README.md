@@ -45,3 +45,16 @@ AI ACCELERATE: Fine-Tuned YOLOv8 (Edge Vision) · NVIDIA NIM (LLM Streaming) · 
 ACHIEVEMENTS : 🏆 MUSA Codex National Top 7 Finalist | 🏆 Quasar 4.0 Hackathon Finalist
 CERTIFIED    : IBM Enterprise Full-Stack Microservices & Cloud Architecture
 DISPATCH     : Open to Software Engineering (SDE) Roles & Distributed Systems Collaborations
+```
+
+---
+
+### 🐍 Contribution Activity Stream
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilthange/nikhilthange/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilthange/nikhilthange/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/nikhilthange/nikhilthange/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
