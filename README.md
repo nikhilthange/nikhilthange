@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,40:0f172a,75:0e2a47,100:0284c7&height=220&section=header&text=NIKHIL%20THANGE&fontSize=48&fontColor=38bdf8&fontAlignY=42&desc=Systems%20%C2%B7%20Microservices%20%C2%B7%20Computer%20Vision%20%C2%B7%20Cloud%20Architecture&descSize=17&descAlignY=66&descColor=94a3b8&stroke=0284c7&strokeWidth=1.5"/>
 
 <!-- Dynamic Terminal Ribbon -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%96%B6+SDE+Intern+%40+Chitralai+%E2%80%94+React+19+%C2%B7+AWS+%C2%B7+DynamoDB+%C2%B7+Redis+%C2%B7+PostgreSQL;%E2%96%B6+National+Hackathon+Finalist+%7C+MUSA+Codex+Top+7+%F0%9F%8F%86+%C2%B7+Quasar+4.0;%E2%96%B6+Sub-50ms+P95+Latency+%E2%80%94+Scaled+PM2+Clusters+%26+Multi-Layer+Redis+Caching;%E2%96%B6+Edge+AI+Pipelines+%E2%80%94+Fine-Tuned+YOLOv8+(91.4%25+mAP50)+%26+NVIDIA+NIM+LLMs;%E2%96%B6+Offline-First+Architectures+%E2%80%94+Zero-Internet+IndexedDB+%26+GSM+SMS+Fallback"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%96%B6+Ex-SDE+Intern+%40+Chitralai+%E2%80%94+React+19+%C2%B7+AWS+%C2%B7+DynamoDB+%C2%B7+Redis+%C2%B7+PostgreSQL;%E2%96%B6+National+Hackathon+Finalist+%7C+MUSA+Codex+Top+7+%F0%9F%8F%86+%C2%B7+Quasar+4.0;%E2%96%B6+Sub-50ms+P95+Latency+%E2%80%94+Scaled+PM2+Clusters+%26+Multi-Layer+Redis+Caching;%E2%96%B6+Edge+AI+Pipelines+%E2%80%94+Fine-Tuned+YOLOv8+(91.4%25+mAP50)+%26+NVIDIA+NIM+LLMs;%E2%96%B6+Offline-First+Architectures+%E2%80%94+Zero-Internet+IndexedDB+%26+GSM+SMS+Fallback"/>
 
 <br/>
 
@@ -26,7 +26,8 @@
 
 <!-- Status Chips -->
 <img src="https://komarev.com/ghpvc/?username=nikhilthange&color=0284c7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/ROLE-SDE%20Intern%20%40%20Chitralai-0284c7?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-Ex--SDE%20Intern%20%40%20Chitralai-0284c7?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-10b981?style=flat-square&logo=target"/>
 <img src="https://img.shields.io/badge/LOCATION-Mumbai%2C%20India-f97316?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-7.50%20%2F%2010.0-10b981?style=flat-square"/>
 <img src="https://img.shields.io/badge/HACKATHONS-2x%20National%20Finalist-eab308?style=flat-square&logo=trophy"/>
@@ -43,7 +44,7 @@
 IDENTITY     : Nikhil Ankush Thange | Full-Stack Software Engineer
 EDUCATION    : B.E. Information Technology (2023–2027) | Mumbai University (CGPA: 7.50 / 10.0)
 INSTITUTE    : Vasantdada Patil Pratishthan’s College of Engineering, Mumbai
-CURRENT ROLE : Software Development Engineer Intern @ Chitralai (Jul 2024 – Present)
+EXPERIENCE   : Software Development Engineer Intern @ Chitralai (Jul 2026 – Oct 2026 · Completed)
 CORE DOMAINS : High-Concurrency Systems · Cloud Microservices · Edge Computer Vision · Real-Time LLMs
 COURSEWORK   : Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · System Design
 HONORS       : 🏆 MUSA Codex National Top 7 Finalist | 🏆 Quasar 4.0 Hackathon Finalist
@@ -107,14 +108,14 @@ DISPATCH     : Open to Software Engineering (SDE) Roles & Distributed Systems En
 
 ### 💼 Professional Engineering Experience
 
-#### 🏢 Software Development Engineer Intern &nbsp;|&nbsp; [Chitralai](https://chitralai.com)
-*Jul 2024 – Present &nbsp;•&nbsp; Remote*  
+#### 🏢 Software Development Engineer Intern &nbsp;|&nbsp; [Chitralai](https://www.chitralai.in)
+*Jul 2026 – Oct 2026 &nbsp;•&nbsp; Remote (Completed)* &nbsp;•&nbsp; <a href="assets/Chitralai_Experience_Letter.pdf" target="_blank"><img src="https://img.shields.io/badge/Experience_Letter-Verified_PDF-0284c7?style=flat-square&logo=adobeacrobatreader&logoColor=white" valign="middle"/></a>  
 `React 19` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `DynamoDB` · `Redis` · `AWS (S3, EC2, CloudFront)`
 
-- **🚀 High-Converting Landing Page**: Designed and built a high-performance full-stack marketing page from scratch using React 19 and Node.js, driving a **25% increase in conversion rate**; orchestrated end-to-end production deployment across AWS (S3, CloudFront, EC2).
+- **🚀 Full-Stack Feature Engineering**: Designed, developed, and maintained production application features using React 19 and Node.js, boosting user conversion by **25%**; orchestrated end-to-end deployment across AWS (S3, CloudFront, EC2).
 - **⚡ DynamoDB Migration & GSI Optimization**: Architected and migrated high-read user-event data to AWS DynamoDB with custom Global Secondary Index (GSI) key structures, slashing query latency by **40% on high-traffic feed endpoints**.
-- **🏎️ Performance & Core Web Vitals**: Reduced First Contentful Paint (FCP) to **<800ms** and Cumulative Layout Shift (CLS) by **30%** through list virtualization, aggressive TanStack Query caching, and asynchronous lazy loading across media feeds.
-- **🛡️ Backend Reliability & Testing**: Maintained **sub-65ms P95 latency** across 20+ REST endpoints via multi-layer Redis caching; dropped production bugs by **35%** by instituting **85%+ automated test coverage** using Jest/Supertest suites integrated into GitHub Actions CI/CD.
+- **🏎️ Performance Optimization & Web Vitals**: Collaborated with engineering leads to troubleshoot bottlenecks, reducing First Contentful Paint (FCP) to **<800ms** and CLS by **30%** via list virtualization, aggressive TanStack Query caching, and media pipelines.
+- **🛡️ Code Quality, Debugging & Reliability**: Spearheaded routine software maintenance, active bug resolution, and code reviews; maintained **sub-65ms P95 latency** with multi-layer Redis caching and lowered production bugs by **35%** with **85%+ Jest test coverage** in GitHub Actions CI/CD.
 
 ---
 
@@ -173,6 +174,8 @@ DISPATCH     : Open to Software Engineering (SDE) Roles & Distributed Systems En
 
 ### 🏆 Honors, Awards & Certifications
 
+- **📜 Software Development Engineer (SDE) Experience Certificate — Chitralai (2026)**  
+  Successfully completed 3-month engineering internship (Jul 2026 – Oct 2026) contributing to full-stack feature development, AWS cloud infrastructure, performance optimization, and testing. <a href="assets/Chitralai_Experience_Letter.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-View_PDF-0284c7?style=flat-square&logo=adobeacrobatreader&logoColor=white" valign="middle"/></a>
 - **🏆 MUSA Codex National Hackathon — Top 7 Finalist (2026)**  
   Built *SwasthyaSetu*, an offline-first emergency healthcare triage and data continuity system.
 - **🏆 Quasar 4.0 Hackathon — Finalist (2026)**  
